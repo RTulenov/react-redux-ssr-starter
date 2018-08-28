@@ -1,0 +1,10 @@
+{
+    "title": "Привет мир!",
+    
+    "meta.app.title": "title",
+    "meta.app.description": "description",
+    "meta.app.keywords": "keywords",
+
+    "header": "header",
+    "footer": "footer"
+}
